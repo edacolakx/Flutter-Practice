@@ -1,16 +1,46 @@
-# letgo
+# Flutter Öğrenme Projesi
 
-A new Flutter project.
+Bu proje, Flutter bilgilerimi tazelemek ve modern Flutter geliştirme pratiklerini öğrenmek amacıyla oluşturulmuş bir uygulamadır.
 
-## Getting Started
+## 🚀 Proje Hakkında
 
-This project is a starting point for a Flutter application.
+Flutter'ın temel ve ileri düzey özelliklerini içeren bir öğrenme projesidir. Bu proje, Flutter'ı yeniden öğrenmek ve güncel geliştirme pratiklerini uygulamak isteyenler için bir referans noktası olarak tasarlanmıştır.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Kullanılan Teknolojiler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK (^3.7.2)
+- Dart
+- HTTP paketi (^1.4.0)
+- Cupertino Icons (^1.0.8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Kurulum
+
+1. Projeyi klonlayın
+
+2. Bağımlılıkları yükleyin:
+
+```bash
+flutter pub get
+```
+
+3. Uygulamayı çalıştırın:
+
+```bash
+flutter run
+```
+
+## 🎯 Öğrenme Hedefleri
+
+- Flutter widget sisteminin yeniden gözden geçirilmesi
+- State management pratikleri
+- HTTP istekleri ve API entegrasyonu
+- Modern Flutter mimarisi
+- Responsive tasarım prensipleri
+
+## 📝 Notlar
+
+Bu proje, Flutter öğrenme sürecinde edinilen bilgileri pratik etmek ve güncel Flutter geliştirme pratiklerini öğrenmek amacıyla oluşturulmuştur. Proje içerisinde farklı Flutter konseptleri ve özellikleri uygulanmıştır.
+
+## 🤝 Katkıda Bulunma
+
+Eğer projeye katkıda bulunmak isterseniz, lütfen bir pull request açın. Tüm katkılarınızı bekliyoruz!
